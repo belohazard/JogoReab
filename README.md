@@ -1,2 +1,2 @@
 # JogoReab
-Socorro
+Jogo de Reabilitação de Memória
