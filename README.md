@@ -1,2 +1,2 @@
 # JogoReab
-Jogo de Reabilitação de Memória
+Jogo de Reabilitação Cognitiva
